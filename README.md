@@ -1,2 +1,3 @@
 # Fukazume
-Hello. My name is Fukazume, and I'm in the 1st grade of NTC. Mice to meet you :)
+print("Hello, I am Fukazume. I am learning Python at school.")
+print("Nice to meet you!")
